@@ -25,6 +25,9 @@ This project is created by applying transfer learning method. VGG16 convolutiona
 
 The model was trained with 5 epochs and produced training accuracy of 0.9966 and validation accuracy of 0.9962. In order to ensure the fine tune is working in improving the accuracy score, we trained the model with another 5 epochs and the result has a sligh improvement where the accuracy increase to 0.999 for training set and 0.988 for validation set.
 
-Note: Fine tuning process is not required for this specific project because the accuracy using transfer learning itself is very good. Hence, it can be dismissed.<img width="342" alt="Screenshot 2022-04-18 at 12 13 22 PM" src="https://user-images.githubusercontent.com/100512421/163753376-69bd895e-1edd-477e-ae53-fc374aed1e43.png">
+<img width="342" alt="Screenshot 2022-04-18 at 12 13 22 PM" src="https://user-images.githubusercontent.com/100512421/163753376-69bd895e-1edd-477e-ae53-fc374aed1e43.png">
+
+
+Note: Fine tuning process is not required for this specific project because the accuracy using transfer learning itself is very good. Hence, it can be dismissed.
 
 
